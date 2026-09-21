@@ -8,5 +8,4 @@ You can find them below.
 - **[HackOS](https://github.com/polyfoil/HackOS-1-Click-OpenCore-EFI)** — hardware analysis and Hackintosh EFI on Windows.
 
 <p>
-  <img src="https://count.getloli.com/get/@polyfoil?theme=moebooru" alt="moe counter" />
 </p>
